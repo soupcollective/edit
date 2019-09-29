@@ -1,6 +1,6 @@
 # R&D
 
-#### [EDIT DIARY](edit diary.md)
+#### [EDIT DIARY](editdiary.md)
 
 #### [INTRO TO DAVINCI RESOLVE](introtodavinciresolve.md)
 
