@@ -92,8 +92,8 @@ NODE-BASED WORK FLOW
 
 ### RESOURCES
 
-Blackmagic DaVinci Resolve 14 | User Manual
-[http://documents.blackmagicdesign.com/DaVinciResolve/20171211-fb9b17/DaVinci_Resolve_14_Reference_Manual.pdf](http://documents.blackmagicdesign.com/DaVinciResolve/20171211-fb9b17/DaVinci_Resolve_14_Reference_Manual.pdf)
+Blackmagic DaVinci Resolve 15 | User Manual
+[https://documents.blackmagicdesign.com/UserManuals/DaVinci_Resolve_15_Reference_Manual.pdf?_v=1554708500000](https://documents.blackmagicdesign.com/UserManuals/DaVinci_Resolve_15_Reference_Manual.pdf?_v=1554708500000)
 
 Lynda.com DaVinci Tuts
 [https://www.lynda.com/DaVinci-Resolve-training-tutorials/1966-0.html](https://www.lynda.com/DaVinci-Resolve-training-tutorials/1966-0.html)
