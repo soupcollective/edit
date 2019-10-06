@@ -1,9 +1,9 @@
 
 ### Rhythm & Repetition
 
-Focussing on the trailer as a way to introduce rhythm in editing and the use of discontinuity to condense narratives into short form.
+Focussing on the trailer as a way to introduce rhythm in editing and the use of discontinuity & time compression to condense narratives into short form.
 
-————
+———
 
 ### Walter Murch The rule of 6
 
@@ -24,6 +24,8 @@ Focussing on the trailer as a way to introduce rhythm in editing and the use of 
 > Karen Pearlman | Cutting Rhythms 
 
 ---
+
+
 
 ### TRAILERS / SCENES
 
