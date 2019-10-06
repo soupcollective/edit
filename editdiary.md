@@ -8,3 +8,10 @@
 - Treat as an edit sketchbook
 - Collate or post
 - Use any method/software you want
+
+
+
+#### EXAMPLE DIARY
+
+[https://www.instagram.com/twinnedwithrixensart/](https://www.instagram.com/twinnedwithrixensart/)
+
