@@ -8,7 +8,7 @@ Ongoing activity during R&D.
 
 Basic overview and coverage of bringing edits in from FCPX via XML.
 
-#### [MATCHCUT](matchcut.md)
+#### [MATCH CUT](matchcut.md)
 
 Short presentation and examples of different types of match cut.
 
