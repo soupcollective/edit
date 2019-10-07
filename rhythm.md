@@ -1,4 +1,4 @@
-autoscale: true
+autoscale: true	
 
 ### Rhythm & Repetition
 
