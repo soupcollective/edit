@@ -17,6 +17,26 @@ Focussing on the trailer as a way to introduce rhythm in editing and the use of 
 
 ————
 
+[**Discontinuity**](http://www.aaronlburton.com/uowmeda101w9_01.html)
+
+[Mark Cousins](https://theartofediting2015.wordpress.com/tag/mark-cousins/) once said that continuity editing is the equivalent of using the word “then” in a story. There are three general formats of continuity editing;
+
+  1. Temporal connections: the relationship between a symptom and result, for example one shot may show a glass being pushed off a table and the second will show glass smashing on the floor below.
+  2. Spatial connections: the relationship between an object and its environment. This could be a wide shot which cuts to show a closer detail.
+  3. Logical connections: for example a wide shot of the white house which cuts to a shot of the President sitting in his office; the connection between the two shots is implied to the audience.
+
+Discontinuity editing is the antithesis to the above; it challenges the audience’s expectations and causes them to feel [alienated or disorientated](http://filmeditingtechnique.blogspot.com.au/2012/06/continuity-and-discontinuity-editing.html). Below is an example of discontinuity editing from Apocalypse Now, directed by [Francis Ford Coppola](http://www.imdb.com/name/nm0000338/).
+
+
+
+TAKEN FROM DISCONTINUITY EDITING BY CLAIRE FARQUHAR
+
+---
+
+![](https://www.youtube.com/watch?v=CIrvSJwwJUE)
+
+
+
 ---
 
 
