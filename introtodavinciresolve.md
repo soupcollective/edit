@@ -1,3 +1,5 @@
+Autoscale: true
+
 ## MMU BA Hons FILMMAKING | INTRO TO DAVINCI RESOLVE & FCPX IMPORT/EXPORT
 
 ---
