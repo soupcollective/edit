@@ -16,6 +16,8 @@ Short presentation and examples of different types of match cut.
 
 Focussing on the trailer as a way to introduce rhythm in editing and the use of discontinuity to condense narratives into short form.
 
+#### [ELIPSIS](elipsis.md)
+
 #### [INTRO TO MULTICAM](multicam.md)
 
 #### [LINKS](links.md)
